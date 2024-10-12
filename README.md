@@ -20,7 +20,7 @@ The labels are:
 0: Negative review
 
 ## Source:
-The dataset is available from the [IMDB Dataset on Kaggle]([url](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)).
+The dataset is available from the [IMDB Dataset on Kaggle]((https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)).
 
 ## Data Preprocessing
 The preprocessing steps include:
